@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "xtx9-smartflex-org",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "xtx9-smartflex-org-db",
+			"database_id": "5820745a-1b72-4578-9830-4c1773c5d8e1"
+		}
+	]
+}
